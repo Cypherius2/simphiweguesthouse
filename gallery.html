@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery | Simphiwe Guest House | Photo Gallery</title>
+    <meta name="description" content="Explore our beautiful photo gallery showcasing the luxury accommodations, amenities, and facilities at Simphiwe Guest House in Manzini.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/animations.css">
+    <link rel="stylesheet" href="styles/gallery.css">
+    <link rel="icon" type="image/png" href="imgs/logo.png">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <img src="imgs/logo.png" alt="Simphiwe Guesthouse Logo" class="nav-icon">
+                <h2>Simphiwe</h2>
+                <span>Guest House</span>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="rooms.html" class="nav-link">Rooms</a></li>
+                <li class="nav-item"><a href="amenities.html" class="nav-link">Amenities</a></li>
+                <li class="nav-item"><a href="gallery.html" class="nav-link active">Gallery</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="header-image">
+            <img src="imgs/gallery.jpg" alt="Guest House Gallery">
+        </div>
+        <div class="header-overlay"></div>
+        <div class="header-content">
+            <h1 class="page-title fade-in-up">Photo Gallery</h1>
+            <p class="page-subtitle fade-in-up delay-1">Discover the beauty and luxury of Simphiwe Guest House</p>
+        </div>
+    </section>
+
+    <!-- Gallery Filter -->
+    <section class="gallery-filter section-padding">
+        <div class="container">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All Photos</button>
+                <button class="filter-btn" data-filter="exterior">Exterior</button>
+                <button class="filter-btn" data-filter="rooms">Rooms</button>
+                <button class="filter-btn" data-filter="amenities">Amenities</button>
+                <button class="filter-btn" data-filter="facilities">Facilities</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Grid -->
+    <section class="gallery-grid section-padding">
+        <div class="container">
+            <div class="gallery-container">
+                <!-- Exterior Photos -->
+                <div class="gallery-item" data-category="exterior" data-caption="Modern guest house exterior with contemporary architecture">
+                    <img src="imgs/amenities.jpg" alt="Guest House Exterior" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Guest House Exterior</h3>
+                            <p>Modern Architecture</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="exterior" data-caption="Contemporary guest house design nestled in natural surroundings">
+                    <img src="imgs/braai.jpg" alt="Contemporary Design" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Contemporary Design</h3>
+                            <p>Architectural Excellence</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Room Photos -->
+                <div class="gallery-item" data-category="rooms" data-caption="Luxury bedroom with panoramic views and elegant furnishings">
+                    <img src="imgs/delux.jpg" alt="Deluxe Room" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Deluxe Room</h3>
+                            <p>Panoramic Views</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="rooms" data-caption="Elegant bedroom with gold chandelier and modern furnishings">
+                    <img src="imgs/Standard.jpg" alt="Standard Room" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Standard Room</h3>
+                            <p>Elegant Comfort</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="rooms" data-caption="Sophisticated bedroom suite with premium bedding and modern amenities">
+                    <img src="imgs/steam.jpg" alt="Family Suite" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Steam Room</h3>
+                            <p>Serene steam room</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="rooms" data-caption="Modern luxury bedroom with sophisticated design elements">
+                    <img src="imgs/bedroom.jpg" alt="Luxury Bedroom" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Luxury Bedroom</h3>
+                            <p>Modern Sophistication</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Amenities Photos -->
+                <div class="gallery-item" data-category="amenities" data-caption="Pristine swimming pool surrounded by tropical landscaping">
+                    <img src="imgs/swimming-pool.jpg" alt="Swimming Pool" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Swimming Pool</h3>
+                            <p>Tropical Paradise</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="amenities" data-caption="Luxury resort-style swimming pool with mountain views">
+                    <img src="imgs/pool.jpg" alt="Pool Area" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Pool Area</h3>
+                            <p>Resort-Style Luxury</p>
+                        </div>
+                    </div>
+                </div>
+
+ <!--               <div class="gallery-item" data-category="amenities" data-caption="Beautiful infinity pool with ocean views at sunset">
+                    <img src="imgs/luxury_resort_swimming_pool_sunset_palms.jpg" alt="Sunset Pool" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Sunset Pool</h3>
+                            <p>Evening Serenity</p>
+                        </div>
+                    </div>
+                </div>
+-->
+                <!-- Facilities Photos -->
+                <div class="gallery-item" data-category="facilities" data-caption="Modern outdoor braai area with fireplace and dining space">
+                    <img src="imgs/braai-1.jpg" alt="Braai Area" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Braai Area</h3>
+                            <p>Outdoor Dining</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="facilities" data-caption="Luxury outdoor kitchen with pizza oven and covered dining area">
+                    <img src="imgs/self-Catering.jpg" alt="Outdoor Kitchen" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Kitchen</h3>
+                            <p>Culinary Excellence</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="facilities" data-caption="Modern hotel lobby with sophisticated reception area">
+                    <img src="imgs/dining.jpg" alt="Reception Area" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Indoor Dining Area</h3>
+                            <p>Experience the joy</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="facilities" data-caption="Luxury marble bathroom with modern fixtures and elegant design">
+                    <img src="imgs/bathroom.jpg" alt="Luxury Bathroom" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Luxury Bathroom</h3>
+                            <p>Marble Elegance</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="facilities" data-caption="Contemporary bathroom with glass shower and marble vanity">
+                    <img src="imgs/other.jpg" alt="Modern Bathroom" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Spacious Area</h3>
+                            <p>Contemporary Design</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="facilities" data-caption="Spacious bathroom with freestanding tub and gold fixtures">
+                    <img src="imgs/light.jpg" alt="Spa Bathroom" loading="lazy">
+                    <div class="gallery-overlay">
+                        <div class="gallery-info">
+                            <h3>Stunning Appearence</h3>
+                            <p>Luxury Amenities</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Stats -->
+    <section class="gallery-stats section-padding bg-light">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item reveal">
+                    <div class="stat-number" data-count="14">0</div>
+                    <div class="stat-label">Photo Categories</div>
+                </div>
+                <div class="stat-item reveal delay-1">
+                    <div class="stat-number" data-count="20">0</div>
+                    <div class="stat-label">High-Quality Images</div>
+                </div>
+                <div class="stat-item reveal delay-2">
+                    <div class="stat-number" data-count="5">0</div>
+                    <div class="stat-label">Star Experience</div>
+                </div>
+                <div class="stat-item reveal delay-3">
+                    <div class="stat-number" data-count="24">0</div>
+                    <div class="stat-label">Hours Service</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Virtual Tour CTA -->
+    <section class="virtual-tour section-padding">
+        <div class="container">
+            <div class="tour-content">
+                <div class="tour-text">
+                    <h2 class="section-title">Experience More</h2>
+                    <p class="section-subtitle">Ready to see it all in person?</p>
+                    <p>While our gallery showcases the beauty of Simphiwe Guest House, nothing compares to experiencing our luxury accommodations firsthand. Book your stay today and immerse yourself in the authentic elegance that awaits you.</p>
+                    <div class="tour-features">
+                        <div class="feature-item">
+                            <span class="icon">📷</span>
+                            <span>Professional Photography</span>
+                        </div>
+                        <div class="feature-item">
+                            <span class="icon">🏠</span>
+                            <span>Real Accommodations</span>
+                        </div>
+                        <div class="feature-item">
+                            <span class="icon">✨</span>
+                            <span>Authentic Experience</span>
+                        </div>
+                    </div>
+                    <div class="tour-buttons">
+                        <a href="contact.html" class="btn btn-primary">Book Your Stay</a>
+                        <a href="rooms.html" class="btn btn-secondary">View Rooms</a>
+                    </div>
+                </div>
+                <div class="tour-image">
+                    <img src="imgs/light.jpg" alt="Guest House Interior" class="reveal">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lightbox -->
+    <div id="lightbox" class="lightbox">
+        <div class="lightbox-content">
+            <span class="lightbox-close" id="lightbox-close">&times;</span>
+            <img id="lightbox-img" src="" alt="">
+            <div class="lightbox-caption" id="lightbox-caption"></div>
+            <button class="lightbox-prev" id="lightbox-prev">‹</button>
+            <button class="lightbox-next" id="lightbox-next">›</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <h3>Simphiwe Guest House</h3>
+                        <p>Experience authentic luxury in Manzini</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="rooms.html">Rooms</a></li>
+                        <li><a href="amenities.html">Amenities</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <span>1471 Kelly Street, Extension 5, Manzini</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📞</span>
+                        <a href="tel:+26876655974">+268 7665 5974</a>
+                    </div>
+                    <div class="contact-item">
+                        <span>✉️</span>
+                        <a href="mailto:simphiwe.guesthouse@gmail.com">simphiwe.guesthouse@gmail.com</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" class="social-link">Facebook</a>
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">TripAdvisor</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Simphiwe Guest House. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+    <script src="scripts/gallery.js"></script>
+</body>
+</html>

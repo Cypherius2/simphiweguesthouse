@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rooms | Simphiwe Guest House | Luxury Accommodation</title>
+    <meta name="description" content="Discover our beautifully designed rooms at Simphiwe Guest House. Modern amenities, comfort, and luxury in the heart of Manzini.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/animations.css">
+    <link rel="stylesheet" href="styles/rooms.css">
+     <link rel="icon" type="image/png" href="imgs/logo.png">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <img src="imgs/logo.png" alt="Simphiwe Guesthouse Logo" class="nav-icon">
+                <h2>Simphiwe</h2>
+                <span>Guest House</span>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="rooms.html" class="nav-link active">Rooms</a></li>
+                <li class="nav-item"><a href="amenities.html" class="nav-link">Amenities</a></li>
+                <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="header-image">
+            <img src="imgs/bedroom.jpg" alt="Luxury Rooms">
+        </div>
+        <div class="header-overlay"></div>
+        <div class="header-content">
+            <h1 class="page-title fade-in-up">Our Luxury Rooms</h1>
+            <p class="page-subtitle fade-in-up delay-1">Thoughtfully designed spaces for unforgettable stays</p>
+        </div>
+    </section>
+
+    <!-- Rooms Section -->
+    <section class="rooms section-padding">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2 class="section-title">Choose Your Perfect Room</h2>
+                <p class="section-subtitle">Each room is carefully designed to provide maximum comfort and luxury</p>
+            </div>
+
+            <div class="rooms-grid">
+                <!-- Deluxe Room -->
+                <div class="room-card reveal">
+                    <div class="room-image">
+                        <img src="imgs/delux.jpg" alt="Deluxe Room">
+                        <div class="room-overlay">
+                            <button class="btn btn-secondary" data-modal="room-modal-1">View Details</button>
+                        </div>
+                    </div>
+                    <div class="room-content">
+                        <h3 class="room-title">Deluxe Room</h3>
+                        <p class="room-description">Spacious and elegantly furnished with modern amenities and stunning views of the surrounding landscape.</p>
+                        <div class="room-features">
+                            <span class="feature">King Size Bed</span>
+                            <span class="feature">Private Bathroom</span>
+                            <span class="feature">Air Conditioning</span>
+                            <span class="feature">Garden View</span>
+                        </div>
+                        <div class="room-footer">
+                            <div class="room-capacity">
+                                <span class="icon">👥</span>
+                                <span>2 Guests</span>
+                            </div>
+                            <a href="contact.html" class="btn btn-primary">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Standard Room -->
+                <div class="room-card reveal delay-1">
+                    <div class="room-image">
+                        <img src="imgs/standard.jpg" alt="Standard Room">
+                        <div class="room-overlay">
+                            <button class="btn btn-secondary" data-modal="room-modal-2">View Details</button>
+                        </div>
+                    </div>
+                    <div class="room-content">
+                        <h3 class="room-title">Standard Room</h3>
+                        <p class="room-description">Comfortable and well-appointed room perfect for a relaxing stay with all essential amenities.</p>
+                        <div class="room-features">
+                            <span class="feature">Queen Size Bed</span>
+                            <span class="feature">Private Bathroom</span>
+                            <span class="feature">Air Conditioning</span>
+                            <span class="feature">Free WiFi</span>
+                        </div>
+                        <div class="room-footer">
+                            <div class="room-capacity">
+                                <span class="icon">👥</span>
+                                <span>2 Guests</span>
+                            </div>
+                            <a href="contact.html" class="btn btn-primary">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Family Suite -->
+                <div class="room-card reveal delay-2">
+                    <div class="room-image">
+                        <img src="imgs/other.jpg" alt="Family Suite">
+                        <div class="room-overlay">
+                            <button class="btn btn-secondary" data-modal="room-modal-3">View Details</button>
+                        </div>
+                    </div>
+                    <div class="room-content">
+                        <h3 class="room-title">Family Suite</h3>
+                        <p class="room-description">Spacious suite ideal for families, featuring separate living area and multiple sleeping arrangements.</p>
+                        <div class="room-features">
+                            <span class="feature">2 Bedrooms</span>
+                            <span class="feature">Living Area</span>
+                            <span class="feature">Kitchenette</span>
+                            <span class="feature">Balcony</span>
+                        </div>
+                        <div class="room-footer">
+                            <div class="room-capacity">
+                                <span class="icon">👥</span>
+                                <span>4-6 Guests</span>
+                            </div>
+                            <a href="contact.html" class="btn btn-primary">Book Now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Room Amenities -->
+    <section class="room-amenities section-padding bg-light">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2 class="section-title">Room Amenities</h2>
+                <p class="section-subtitle">Every room comes equipped with modern comforts and conveniences</p>
+            </div>
+
+            <div class="amenities-grid">
+                <div class="amenity-item reveal">
+                    <div class="amenity-icon">🛏️</div>
+                    <h4>Premium Bedding</h4>
+                    <p>High-quality linens and comfortable mattresses for a perfect night's sleep</p>
+                </div>
+                <div class="amenity-item reveal delay-1">
+                    <div class="amenity-icon">🚿</div>
+                    <h4>Modern Bathroom</h4>
+                    <p>Contemporary bathroom with premium fixtures and luxury toiletries</p>
+                </div>
+                <div class="amenity-item reveal delay-2">
+                    <div class="amenity-icon">❄️</div>
+                    <h4>Climate Control</h4>
+                    <p>Individual air conditioning and heating controls for your comfort</p>
+                </div>
+                <div class="amenity-item reveal delay-3">
+                    <div class="amenity-icon">📺</div>
+                    <h4>Entertainment</h4>
+                    <p>Flat-screen TV with satellite channels and streaming capabilities</p>
+                </div>
+                <div class="amenity-item reveal delay-4">
+                    <div class="amenity-icon">📶</div>
+                    <h4>Free WiFi</h4>
+                    <p>High-speed internet access throughout the property</p>
+                </div>
+                <div class="amenity-item reveal delay-5">
+                    <div class="amenity-icon">☕</div>
+                    <h4>Tea & Coffee</h4>
+                    <p>Complimentary tea and coffee making facilities in every room</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Self-Catering Section -->
+    <section class="self-catering section-padding">
+        <div class="container">
+            <div class="catering-content">
+                <div class="catering-text">
+                    <h2 class="section-title">Self-Catering Excellence</h2>
+                    <p class="section-subtitle">Cook at your convenience with our modern facilities</p>
+                    <p>Experience the flexibility of self-catering with our well-equipped kitchen facilities. Whether you're preparing a quick breakfast before exploring Manzini or enjoying a cozy dinner after a day of adventures, our kitchens provide everything you need.</p>
+                    <div class="catering-features">
+                        <div class="feature-item">
+                            <span class="icon">🍳</span>
+                            <div>
+                                <h4>Modern Kitchen</h4>
+                                <p>Fully equipped with appliances and cookware</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <span class="icon">🍽️</span>
+                            <div>
+                                <h4>Dining Area</h4>
+                                <p>Comfortable space for enjoying your meals</p>
+                            </div>
+                        </div>
+                        <div class="feature-item">
+                            <span class="icon">🛒</span>
+                            <div>
+                                <h4>Local Shopping</h4>
+                                <p>Guidance to nearby markets and grocery stores</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catering-image">
+                    <img src="imgs/self-rooms.jpg" alt="Self-Catering Kitchen">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Booking CTA -->
+    <section class="booking-cta section-padding bg-primary">
+        <div class="container">
+            <div class="cta-content text-center">
+                <h2 class="cta-title">Ready to Book Your Stay?</h2>
+                <p class="cta-subtitle">Contact us today to reserve your perfect room and experience luxury in Manzini</p>
+                <div class="cta-buttons">
+                    <a href="contact.html" class="btn btn-light">Book Now</a>
+                    <a href="tel:+26876655974" class="btn btn-outline-light">Call Us</a>
+                </div>
+                <div class="booking-info">
+                    <p>📞 +268 7665 5974 | ✉️ simphiwe.guesthouse@gmail.com</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Room Modals -->
+    <div id="room-modal-1" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <div class="modal-header">
+                <h3>Deluxe Room</h3>
+            </div>
+            <div class="modal-body">
+                <img src="imgs/delux.jpg" alt="Deluxe Room" class="modal-image">
+                <div class="modal-info">
+                    <p>Our Deluxe Room offers the perfect blend of comfort and luxury. Featuring a spacious layout with panoramic views of the surrounding landscape, this room is designed for guests who appreciate the finer things in life.</p>
+                    <h4>Features:</h4>
+                    <ul>
+                        <li>King-size bed with premium linens</li>
+                        <li>Large windows with stunning views</li>
+                        <li>Spacious private bathroom with luxury fixtures</li>
+                        <li>Work desk and comfortable seating area</li>
+                        <li>Air conditioning and heating</li>
+                        <li>Flat-screen TV with satellite channels</li>
+                        <li>Complimentary WiFi</li>
+                        <li>Tea and coffee making facilities</li>
+                        <li>Mini-refrigerator</li>
+                        <li>Safe for valuables</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a href="contact.html" class="btn btn-primary">Book This Room</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="room-modal-2" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <div class="modal-header">
+                <h3>Standard Room</h3>
+            </div>
+            <div class="modal-body">
+                <img src="imgs/standard.jpg" alt="Standard Room" class="modal-image">
+                <div class="modal-info">
+                    <p>Our Standard Room provides all the comfort and amenities you need for a pleasant stay. Thoughtfully designed with modern furnishings and a warm, welcoming atmosphere.</p>
+                    <h4>Features:</h4>
+                    <ul>
+                        <li>Queen-size bed with quality bedding</li>
+                        <li>Contemporary bathroom with shower</li>
+                        <li>Air conditioning and fan</li>
+                        <li>Flat-screen TV</li>
+                        <li>Free WiFi access</li>
+                        <li>Work desk and chair</li>
+                        <li>Tea and coffee station</li>
+                        <li>Wardrobe with hangers</li>
+                        <li>Reading lights</li>
+                        <li>Daily housekeeping</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a href="contact.html" class="btn btn-primary">Book This Room</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="room-modal-3" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <div class="modal-header">
+                <h3>Family Suite</h3>
+            </div>
+            <div class="modal-body">
+                <img src="imgs/other.jpg" alt="Family Suite" class="modal-image">
+                <div class="modal-info">
+                    <p>Our spacious Family Suite is perfect for families or groups traveling together. With multiple sleeping areas and a living space, everyone can enjoy comfort and privacy.</p>
+                    <h4>Features:</h4>
+                    <ul>
+                        <li>Two separate bedrooms</li>
+                        <li>Living room with sofa bed</li>
+                        <li>Kitchenette with basic appliances</li>
+                        <li>Private balcony or patio</li>
+                        <li>Two bathrooms (one en-suite)</li>
+                        <li>Dining table for family meals</li>
+                        <li>Multiple TVs and entertainment options</li>
+                        <li>Air conditioning throughout</li>
+                        <li>Large refrigerator and microwave</li>
+                        <li>Extended storage space</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <a href="contact.html" class="btn btn-primary">Book This Suite</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <h3>Simphiwe Guest House</h3>
+                        <p>Experience authentic luxury in Manzini</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="rooms.html">Rooms</a></li>
+                        <li><a href="amenities.html">Amenities</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <span>1471 Kelly Street, Extension 5, Manzini</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📞</span>
+                        <a href="tel:+26876655974">+268 7665 5974</a>
+                    </div>
+                    <div class="contact-item">
+                        <span>✉️</span>
+                        <a href="mailto:simphiwe.guesthouse@gmail.com">simphiwe.guesthouse@gmail.com</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" class="social-link">Facebook</a>
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">TripAdvisor</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Simphiwe Guest House. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>

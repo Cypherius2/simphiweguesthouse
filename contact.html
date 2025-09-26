@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Simphiwe Guest House | Book Your Stay</title>
+    <meta name="description" content="Contact Simphiwe Guest House in Manzini for bookings, inquiries, and reviews. Phone, email, and online contact form available.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/animations.css">
+    <link rel="stylesheet" href="styles/contact.css">
+    <link rel="icon" type="image/png" href="imgs/logo.png">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Simphiwe</h2>
+                <span>Guest House</span>
+            </div>
+            <ul class="nav-menu" id="nav-menu">
+                <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                <li class="nav-item"><a href="rooms.html" class="nav-link">Rooms</a></li>
+                <li class="nav-item"><a href="amenities.html" class="nav-link">Amenities</a></li>
+                <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
+                <li class="nav-item"><a href="contact.html" class="nav-link active">Contact</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="header-image">
+            <img src="imgs/contact.jpg" alt="Contact Us">
+        </div>
+        <div class="header-overlay"></div>
+        <div class="header-content">
+            <h1 class="page-title fade-in-up">Contact Us</h1>
+            <p class="page-subtitle fade-in-up delay-1">We're here to help make your stay exceptional</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-section section-padding">
+        <div class="container">
+            <div class="contact-content">
+                <!-- Contact Information -->
+                <div class="contact-info">
+                    <h2 class="section-title">Get in Touch</h2>
+                    <p class="section-subtitle">We'd love to hear from you and help plan your perfect stay</p>
+                    
+                    <div class="contact-methods">
+                        <div class="contact-method reveal">
+                            <div class="method-icon">📞</div>
+                            <div class="method-info">
+                                <h3>Phone</h3>
+                                <p><a href="tel:+26876655974">+268 7665 5974</a></p>
+                                <small>Available 24/7 for bookings and inquiries</small>
+                            </div>
+                        </div>
+
+                        <div class="contact-method reveal delay-1">
+                            <div class="method-icon">✉️</div>
+                            <div class="method-info">
+                                <h3>Email</h3>
+                                <p><a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwCwTlcRVTgzsVrZCkBZgGQkTlpdCvmCHfQXZxtcXWtxVWkkjqllznnsfJRZQGqnqGRNfl">simphiwe.guesthouse@gmail.com</a></p>
+                                <small>We respond to all emails within 24 hours</small>
+                            </div>
+                        </div>
+
+                        <div class="contact-method reveal delay-2">
+                            <div class="method-icon">📍</div>
+                            <div class="method-info">
+                                <h3>Address</h3>
+                                <p>1471 Kelly Street<br>Extension 5, Manzini<br>Eswatini</p>
+                                <small><a href="https://maps.app.goo.gl/iFKW2AMDqRS5sJ426" target="_blank">View on Map</a></small>
+                            </div>
+                        </div>
+
+                        <div class="contact-method reveal delay-3">
+                            <div class="method-icon">🕒</div>
+                            <div class="method-info">
+                                <h3>Check-in/Check-out</h3>
+                                <p>Check-in: 2:00 PM<br>Check-out: 11:00 AM</p>
+                                <small>Early check-in and late check-out available on request</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Contact Forms -->
+                <div class="contact-forms">
+                    <!-- Booking Form -->
+                    <div class="form-section">
+                        <h3>Book Your Stay</h3>
+                        <form id="booking-form" class="contact-form" data-type="booking">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="booking-name">Full Name *</label>
+                                    <input type="text" id="booking-name" name="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="booking-email">Email Address *</label>
+                                    <input type="email" id="booking-email" name="email" required>
+                                </div>
+                            </div>
+                            
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="booking-phone">Phone Number</label>
+                                    <input type="tel" id="booking-phone" name="phone">
+                                </div>
+                                <div class="form-group">
+                                    <label for="booking-guests">Number of Guests *</label>
+                                    <select id="booking-guests" name="guests" required>
+                                        <option value="">Select guests</option>
+                                        <option value="1">1 Guest</option>
+                                        <option value="2">2 Guests</option>
+                                        <option value="3">3 Guests</option>
+                                        <option value="4">4 Guests</option>
+                                        <option value="5">5 Guests</option>
+                                        <option value="6">6+ Guests</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="checkin-date">Check-in Date *</label>
+                                    <input type="date" id="checkin-date" name="checkin" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="checkout-date">Check-out Date *</label>
+                                    <input type="date" id="checkout-date" name="checkout" required>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="room-preference">Room Preference</label>
+                                <select id="room-preference" name="room">
+                                    <option value="">No preference</option>
+                                    <option value="deluxe">Deluxe Room</option>
+                                    <option value="standard">Standard Room</option>
+                                    <option value="family">Family Suite</option>
+                                </select>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="booking-message">Special Requests</label>
+                                <textarea id="booking-message" name="message" rows="4" placeholder="Any special requests or requirements..."></textarea>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary">Send Booking Request</button>
+                        </form>
+                    </div>
+
+                    <!-- Review Form -->
+                    <div class="form-section">
+                        <h3>Leave a Review</h3>
+                        <p>Share your experience with us</p>
+                        <form id="review-form" class="contact-form" data-type="review">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="review-name">Your Name *</label>
+                                    <input type="text" id="review-name" name="name" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="review-email">Email Address *</label>
+                                    <input type="email" id="review-email" name="email" required>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="overall-satisfaction">Overall Satisfaction *</label>
+                                <div class="rating-group">
+                                    <input type="radio" id="rating-5" name="satisfaction" value="5" required>
+                                    <label for="rating-5" class="rating-label">⭐⭐⭐⭐⭐ Excellent</label>
+                                    
+                                    <input type="radio" id="rating-4" name="satisfaction" value="4">
+                                    <label for="rating-4" class="rating-label">⭐⭐⭐⭐ Very Good</label>
+                                    
+                                    <input type="radio" id="rating-3" name="satisfaction" value="3">
+                                    <label for="rating-3" class="rating-label">⭐⭐⭐ Good</label>
+                                    
+                                    <input type="radio" id="rating-2" name="satisfaction" value="2">
+                                    <label for="rating-2" class="rating-label">⭐⭐ Fair</label>
+                                    
+                                    <input type="radio" id="rating-1" name="satisfaction" value="1">
+                                    <label for="rating-1" class="rating-label">⭐ Poor</label>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="recommend">Would you recommend us? *</label>
+                                <div class="radio-group">
+                                    <input type="radio" id="recommend-yes" name="recommend" value="yes" required>
+                                    <label for="recommend-yes">Yes, definitely</label>
+                                    
+                                    <input type="radio" id="recommend-maybe" name="recommend" value="maybe">
+                                    <label for="recommend-maybe">Maybe</label>
+                                    
+                                    <input type="radio" id="recommend-no" name="recommend" value="no">
+                                    <label for="recommend-no">No</label>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="room-cleanliness">Room Cleanliness *</label>
+                                <select id="room-cleanliness" name="cleanliness" required>
+                                    <option value="">Rate cleanliness</option>
+                                    <option value="excellent">Excellent</option>
+                                    <option value="very-good">Very Good</option>
+                                    <option value="good">Good</option>
+                                    <option value="fair">Fair</option>
+                                    <option value="poor">Poor</option>
+                                </select>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="staff-service">Staff Service *</label>
+                                <select id="staff-service" name="service" required>
+                                    <option value="">Rate our service</option>
+                                    <option value="excellent">Excellent</option>
+                                    <option value="very-good">Very Good</option>
+                                    <option value="good">Good</option>
+                                    <option value="fair">Fair</option>
+                                    <option value="poor">Poor</option>
+                                </select>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="problems">Did you encounter any problems?</label>
+                                <textarea id="problems" name="problems" rows="3" placeholder="Please describe any issues you experienced..."></textarea>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="improvements">Areas for improvement</label>
+                                <textarea id="improvements" name="improvements" rows="3" placeholder="How can we improve our service?"></textarea>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="review-comments">Additional Comments</label>
+                                <textarea id="review-comments" name="comments" rows="4" placeholder="Share your experience with future guests..."></textarea>
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary">Submit Review</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map Section -->
+    <section class="map-section section-padding bg-light">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2 class="section-title">Find Us</h2>
+                <p class="section-subtitle">Located in the heart of Manzini, Eswatini</p>
+            </div>
+            
+            <div class="map-container">
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.8234567890123!2d31.3656789!3d-26.4876543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDI5JzE1LjYiUyAzMcKwMjEnNTcuOCJF!5e0!3m2!1sen!2ssz!4v1234567890123!5m2!1sen!2ssz"
+                    style="border:0; width: 100%; height: 400px; border-radius: 8px;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+            
+            <div class="map-info">
+                <div class="info-grid">
+                    <div class="info-item">
+                        <h4>Getting Here</h4>
+                        <p>We're conveniently located in Extension 5, easily accessible from Manzini city center. Transport arrangements available upon request.</p>
+                    </div>
+                    <div class="info-item">
+                        <h4>Nearby Attractions</h4>
+                        <p>Explore beautiful tourist attractions and scenic locations around Manzini with our local guidance and transport services.</p>
+                    </div>
+                    <div class="info-item">
+                        <h4>Airport Transfer</h4>
+                        <p>Convenient airport pickup and drop-off services available. Contact us to arrange your transfer in advance.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Cancellation Policy -->
+    <section class="policy-section section-padding">
+        <div class="container">
+            <div class="policy-content">
+                <h2 class="section-title text-center">Cancellation Policy</h2>
+                <p class="section-subtitle text-center">Please review our cancellation terms</p>
+                
+                <div class="policy-grid">
+                    <div class="policy-item reveal">
+                        <div class="policy-icon">💵</div>
+                        <h3>Full Refund</h3>
+                        <p><strong>100% refund</strong> for cancellations made at least <strong>14 days (2 weeks)</strong> before the arrival date.</p>
+                    </div>
+                    
+                    <div class="policy-item reveal delay-1">
+                        <div class="policy-icon">💰</div>
+                        <h3>Partial Refund</h3>
+                        <p><strong>50% refund</strong> for cancellations made at least <strong>24 hours</strong> before the arrival date.</p>
+                    </div>
+                    
+                    <div class="policy-item reveal delay-2">
+                        <div class="policy-icon">❌</div>
+                        <h3>No Refund</h3>
+                        <p><strong>No refund</strong> for cancellations made <strong>less than 24 hours</strong> before the arrival date.</p>
+                    </div>
+                </div>
+                
+                <div class="policy-note">
+                    <p><strong>Note:</strong> All cancellations must be made in writing via email. We understand that plans can change, and we're here to help find the best solution for your needs.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Emergency Contact -->
+    <section class="emergency-contact section-padding bg-primary">
+        <div class="container">
+            <div class="emergency-content text-center">
+                <h2 class="emergency-title">24/7 Emergency Contact</h2>
+                <p class="emergency-subtitle">For urgent matters during your stay</p>
+                <div class="emergency-info">
+                    <a href="tel:+26876655974" class="emergency-number">+268 7665 5974</a>
+                    <p>Available round the clock for guest emergencies and urgent assistance</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <h3>Simphiwe Guest House</h3>
+                        <p>Experience authentic luxury in Manzini</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="rooms.html">Rooms</a></li>
+                        <li><a href="amenities.html">Amenities</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <span>1471 Kelly Street, Extension 5, Manzini</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📞</span>
+                        <a href="tel:+26876655974">+268 7665 5974</a>
+                    </div>
+                    <div class="contact-item">
+                        <span>✉️</span>
+                        <a href="mailto:simphiwe.guesthouse@gmail.com">simphiwe.guesthouse@gmail.com</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#" class="social-link">Facebook</a>
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">TripAdvisor</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Simphiwe Guest House. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Notification Container -->
+    <div id="notification-container"></div>
+
+    <script src="scripts/main.js"></script>
+    <script src="scripts/contact.js"></script>
+</body>
+</html>

@@ -1,0 +1,678 @@
+[
+  {
+    "query": "Luxury hotel room for rooms gallery",
+    "image_info": {
+      "url": "https://carrolldesign.co.uk/wp-content/uploads/2023/01/luxury-hotel-bedroom-design.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_bedroom_suite_with_balcony.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 65935,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.9030452180831695
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is an excellent match for the search query and prompt, perfectly showcasing a modern, luxury hotel bedroom. It features impeccable clarity, professional composition, and ambient lighting, with no visible watermarks. The design elements and overall aesthetic strongly convey a high-end hotel experience suitable for a gallery.",
+      "file_name": "modern_luxury_hotel_bedroom_suite_with_balcony.jpg",
+      "caption": "A stunning, modern luxury hotel bedroom interior featuring a comfortable king-size bed with elegant bedding, sophisticated bedside tables with contemporary lamps, and a chic bench at the foot of the bed. The room boasts a large abstract artwork above the bed, a neutral color palette with warm lighting, and a walk-in closet visible on the right. A sliding glass door on the left opens to a private balcony, enhancing the luxurious hotel suite ambiance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Luxury hotel room for rooms gallery",
+    "image_info": {
+      "url": "https://imageio.forbes.com/specials-images/imageserve/6539ef16587d0df6e57d26a6/Screenshot-2023-10-25-at-11-42-02-PM/960x0.jpg?height=951&width=679&fit=bounds",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_bedroom_suite_with_panoramic_view.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 89814,
+      "width": 679,
+      "height": 951,
+      "total_pixels": 645729,
+      "basic_score": 0.8802286463876112
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern, luxurious bedroom with a sophisticated design and stunning views. The clarity is excellent, and there are no watermarks. The composition and styling are highly professional, making it ideal for a rooms gallery.",
+      "file_name": "modern_luxury_hotel_bedroom_suite_with_panoramic_view.jpg",
+      "caption": "An exquisitely designed modern luxury bedroom featuring a King-size bed with a statement headboard in dark grey and textured panels, alongside a sleek upholstered bench. The room boasts floor-to-ceiling windows offering panoramic views of lush greenery and an outdoor pool area. A contemporary chandelier hangs from the high ceiling, complementing the elegant neutral color palette and the luxurious area rug. Two comfortable armchairs and a round side table with a floral arrangement create a cozy seating area by the window.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Luxury hotel room for rooms gallery",
+    "image_info": {
+      "url": "https://media.designcafe.com/wp-content/uploads/2024/01/24175345/modern-luxury-bedroom-design-ideas.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_bedroom_gold_chandelier.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 91044,
+      "width": 940,
+      "height": 564,
+      "total_pixels": 530160,
+      "basic_score": 0.8604916667568538
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a modern, luxurious bedroom that could easily be a high-end hotel room. The clarity is excellent, with sharp details and good lighting. There are no watermarks, and the overall composition and styling are highly professional, making it ideal for a room gallery.",
+      "file_name": "modern_luxury_hotel_bedroom_gold_chandelier.jpg",
+      "caption": "A meticulously designed modern luxury bedroom, showcasing a plush bed with a tufted dark gray headboard and decorative pillows, flanked by bedside tables with contemporary lamps. Above the bed hangs a striking geometric gold chandelier, complementing the textured gray wall panels and sleek golden-accented wardrobe. A comfortable window seat with cushions adds to the room's inviting ambiance, creating an elegant and sophisticated space perfect for a high-end hotel.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Luxury hotel room for rooms gallery",
+    "image_info": {
+      "url": "https://media.designcafe.com/wp-content/uploads/2024/01/24175330/essence-of-modern-luxury-bedroom-design.jpg",
+      "file_path": "/workspace/imgs/modern-luxury-hotel-bedroom-interior-design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 80674,
+      "width": 940,
+      "height": 564,
+      "total_pixels": 530160,
+      "basic_score": 0.8593103742964681
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query for a 'modern hotel room luxury bedroom' and the prompt 'Luxury hotel room for rooms gallery'. It showcases a contemporary and upscale bedroom with excellent clarity, professional composition, and elegant styling. There are no watermarks present.",
+      "file_name": "modern-luxury-hotel-bedroom-interior-design.jpg",
+      "caption": "A beautifully designed modern luxury hotel bedroom featuring a grand beige upholstered headboard with integrated warm backlighting, a minimalist wooden bed frame with dark bedding, and two matching floating wooden nightstands. The room is accented with elegant gold wall sconces, a stylish rattan armchair, and a patterned area rug. Natural light filters in from a large window, complemented by an air conditioning unit and a dark internal door, creating a sophisticated and inviting ambiance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Luxury hotel room for rooms gallery",
+    "image_info": {
+      "url": "https://imageio.forbes.com/specials-images/imageserve/652f603a91415a3d647fc207/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_bedroom_suite.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 132066,
+      "width": 1201,
+      "height": 900,
+      "total_pixels": 1080900,
+      "basic_score": 0.9362534661877802
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "This image is an exceptional match for the search query and prompt. It perfectly showcases a modern, luxurious bedroom with a clear hotel aesthetic. The clarity is outstanding, the composition is professional, and the design elements are highly sophisticated. There are no watermarks.",
+      "file_name": "modern_luxury_hotel_bedroom_suite.jpg",
+      "caption": "A meticulously designed modern luxury bedroom, possibly a high-end hotel suite, featuring a large, upholstered bed with sophisticated neutral-toned bedding and stylish checked pillows. The room is flanked by dark wood nightstands with elegant black and gold pendant lamps, and a contemporary chandelier hangs from the ceiling. Architectural wall paneling, a sleek dresser with a textured front, and a dark glass-fronted wardrobe contribute to the upscale ambiance. A plush area rug covers the floor, with a modern stool and a stylish travel bag adding to the curated feel.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern hotel lobby and reception area",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/d3/e1/2c/d3e12cc9aa49f22a6ad34f011e03e620.jpg",
+      "file_path": "/workspace/imgs/modern-hotel-lobby-reception-dandelion-chandeliers-design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 130778,
+      "width": 700,
+      "height": 1058,
+      "total_pixels": 740600,
+      "basic_score": 0.8952952719898559
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern and luxurious hotel lobby with a prominent reception desk. The clarity is excellent, though the people are slightly blurred, and there are no watermarks. The composition and design elements are outstanding.",
+      "file_name": "modern-hotel-lobby-reception-dandelion-chandeliers-design.jpg",
+      "caption": "A stunning modern hotel lobby features a long, dark, textured reception desk adorned with elegant white orchid arrangements. Above, intricate dandelion-inspired chandeliers and ceiling art create a captivating, airy ambiance against a light blue, cloudy sky mural. The luxurious and contemporary space is well-lit, with staff members attending to the reception desk.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern hotel lobby and reception area",
+    "image_info": {
+      "url": "https://www.frontsigns.com/wp-content/uploads/2022/02/hotel-reception-design-concepts.jpg",
+      "file_path": "/workspace/imgs/modern_hotel_lobby_reception_design_asian_fusion.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 113454,
+      "width": 1252,
+      "height": 617,
+      "total_pixels": 772484,
+      "basic_score": 0.8988884842284217
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern hotel lobby and reception area with a stylish design. The clarity is excellent, and there are no watermarks. The composition and lighting are professional.",
+      "file_name": "modern_hotel_lobby_reception_design_asian_fusion.jpg",
+      "caption": "A sophisticated and modern hotel lobby featuring a long reception desk with subtle backlighting and artistic circular wall decor. To the right, a comfortable seating area with a contemporary beige sofa, two matching ottomans, and two elegant wooden armchairs is arranged around a dark wood coffee table. The space is adorned with intricate wooden geometric screens on the walls and ceiling, creating an inviting and luxurious atmosphere. Polished marble floors reflect the warm, ambient lighting from recessed fixtures and table lamps.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern hotel lobby and reception area",
+    "image_info": {
+      "url": "https://novoxinc.com/cdn/shop/articles/novox_5_hotel_lobby_design_ideas_that_will_inspire-you_hero_image_1024x576px_1024x.jpg?v=1659361242",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_lobby_reception_interior_design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 129946,
+      "width": 1024,
+      "height": 576,
+      "total_pixels": 589824,
+      "basic_score": 0.8824664998542769
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a highly modern and luxurious hotel lobby and reception area. It boasts excellent clarity, professional lighting, and a well-composed shot. There are no watermarks present, making it ideal for use.",
+      "file_name": "modern_luxury_hotel_lobby_reception_interior_design.jpg",
+      "caption": "A wide-angle interior photograph of a luxurious and contemporary hotel lobby and reception area, showcasing a sophisticated design. The space features a prominent curved reception desk with a striking golden, textured facade and an illuminated overhead fixture. Adjacent to it, a large wall is adorned with numerous illuminated bookshelves filled with books and decorative items, adding warmth and character. Multiple elegant lounge seating arrangements, consisting of light-colored, modern armchairs and sleek metal side tables, are strategically placed on a polished marble floor. Tall, expansive windows with sheer curtains allow for ample natural light, complemented by a grand circular ceiling light fixture and contemporary floor lamps, creating an inviting and upscale ambiance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern hotel lobby and reception area",
+    "image_info": {
+      "url": "https://www.frontsigns.com/wp-content/uploads/2022/02/classic-hotel-reception-design.jpg",
+      "file_path": "/workspace/imgs/modern_hotel_lobby_reception_area_design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 114186,
+      "width": 1252,
+      "height": 617,
+      "total_pixels": 772484,
+      "basic_score": 0.8989629294008563
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern hotel lobby and reception area with excellent clarity and professional composition. The lighting and design elements are clearly visible, and there are no watermarks present.",
+      "file_name": "modern_hotel_lobby_reception_area_design.jpg",
+      "caption": "A wide interior shot of a luxurious and modern hotel lobby featuring a prominent curved white reception desk with the 'ROYAL HOTEL' sign. The space is characterized by sleek, minimalist design, ambient lighting, and elegant white marble flooring. A comfortable seating area with dark grey armchairs and a curved sofa, alongside stylish decorative trees, completes the sophisticated aesthetic.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern hotel lobby and reception area",
+    "image_info": {
+      "url": "https://www.frontsigns.com/wp-content/uploads/2022/02/contemporary-hotel-reception-design.jpg",
+      "file_path": "/workspace/imgs/modern-luxury-hotel-lobby-reception-design-crown-hotel.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 102006,
+      "width": 1252,
+      "height": 617,
+      "total_pixels": 772484,
+      "basic_score": 0.8977175710081606
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a highly modern and luxurious hotel lobby and reception area. It boasts excellent clarity, is free of watermarks, and presents a professional, well-composed scene with sophisticated design elements.",
+      "file_name": "modern-luxury-hotel-lobby-reception-design-crown-hotel.jpg",
+      "caption": "A wide shot of a luxurious and modern hotel lobby, showcasing the 'Crown Hotel' reception desk. The space features a dramatic, illuminated ceiling with flowing organic shapes, polished reflective floors, and warm, indirect lighting that accentuates the contemporary design. Wooden slatted walls and textured marble accents contribute to the sophisticated aesthetic. The curvilinear white reception desk is adorned with a delicate decorative bonsai tree, with the hotel's name 'Crown Hotel' prominently displayed behind it. In the foreground, sleek white lounge chairs complete the elegant and inviting atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury guest house exterior for hero section",
+    "image_info": {
+      "url": "https://media.architecturaldigest.com/photos/57bde7a771ea71ec6e0f41f9/16:9/w_2580,c_limit/Guesthouse_2.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_guest_house_exterior_architecture.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 325111,
+      "width": 1743,
+      "height": 980,
+      "total_pixels": 1708140,
+      "basic_score": 0.8410381767820627
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern luxury guest house exterior. The architecture features clean lines, warm wood paneling, concrete elements, and large glass windows revealing a stylish interior. Clarity is excellent with sharp details and good lighting. There are no watermarks. The composition is professional and ideal for a hero section.",
+      "file_name": "modern_luxury_guest_house_exterior_architecture.jpg",
+      "caption": "A stunning exterior view of a modern luxury guest house, featuring a harmonious blend of rich wooden paneling, polished concrete walls, and expansive floor-to-ceiling glass windows. A dark, flat roof overhangs the structure. A minimalistic wooden path leads to the open main entrance, flanked by large glass doors, revealing lush green foliage beyond. The foreground is a clean gravel landscape with white stone blocks, suggesting a thoughtfully designed outdoor space. The interior, visible through the glass, showcases contemporary furniture and abstract artwork, illuminated by subtle lighting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury guest house exterior for hero section",
+    "image_info": {
+      "url": "https://media-production.lp-cdn.com/cdn-cgi/image/format=auto,quality=85,fit=scale-down,width=1280/https://media-production.lp-cdn.com/media/41f66ffb-ad42-4ca0-b001-0df8d81eeb5f",
+      "file_path": "/workspace/imgs/modern_luxury_white_guest_house_exterior_pine_forest.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 364605,
+      "width": 1280,
+      "height": 854,
+      "total_pixels": 1093120,
+      "basic_score": 0.9554724647440166
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "This image perfectly aligns with the search query and prompt. It clearly depicts a modern, luxury guest house exterior with excellent clarity, professional composition, and natural lighting. There are no watermarks, making it ideal for a hero section.",
+      "file_name": "modern_luxury_white_guest_house_exterior_pine_forest.jpg",
+      "caption": "An impressive exterior view of a minimalist white modern luxury guest house nestled among a serene pine forest. The L-shaped structure features sleek black-framed windows and large sliding glass doors opening onto a paved patio, revealing a bright, contemporary interior with a living area and kitchen visible. The surrounding landscape includes gravel pathways, wood chip ground cover, and towering trees with moss, creating a harmonious blend of modern architecture and nature under clear skies.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful swimming pool for amenities section",
+    "image_info": {
+      "url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2018/04/HEADER-1.jpg?fit=1208%2C680&ssl=1",
+      "file_path": "/workspace/imgs/luxury_resort_infinity_pool_ocean_view.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 191550,
+      "width": 1208,
+      "height": 680,
+      "total_pixels": 821440,
+      "basic_score": 0.9296406051610423
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a beautiful, luxurious infinity pool as part of a resort amenity with a stunning ocean view. The clarity is excellent, and there are no watermarks. The composition is highly professional, effectively highlighting the luxurious setting.",
+      "file_name": "luxury_resort_infinity_pool_ocean_view.jpg",
+      "caption": "A breathtaking view from a luxurious bathroom featuring a private infinity plunge pool overlooking a pristine white sand beach and the turquoise Indian Ocean, surrounded by lush green hills. The pool is integrated into the living space of what appears to be an exclusive resort or villa, emphasizing opulence and direct access to nature's beauty.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful swimming pool for amenities section",
+    "image_info": {
+      "url": "https://iconiclife.com/wp-content/uploads/2020/05/the-best-resort-pool-at-Ritz-Carlton-Arizona.jpg",
+      "file_path": "/workspace/imgs/luxury_resort_swimming_pool_amenities.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 847130,
+      "width": 1200,
+      "height": 676,
+      "total_pixels": 811200,
+      "basic_score": 0.9593124765637351
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches both the search query and prompt. It clearly depicts a beautiful, luxurious swimming pool area at a resort, ideal for an amenities section. The clarity is excellent, and there are no watermarks. The composition is well-balanced, showcasing the grandeur of the resort's pool landscape.",
+      "file_name": "luxury_resort_swimming_pool_amenities.jpg",
+      "caption": "An aerial view of a stunning luxury resort swimming pool, stretching like a serene oasis. The long, multi-sectioned pool is flanked by rows of lush palm trees, inviting lounge chairs with blue umbrellas, and modern cabanas. In the distance, majestic mountains rise under a clear, bright blue sky. Fountains gently spray water in the central part of the pool, adding to the tranquil ambiance. The entire scene evokes an atmosphere of high-end relaxation and tropical escape, perfect for showcasing resort amenities.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful swimming pool for amenities section",
+    "image_info": {
+      "url": "https://specials-images.forbesimg.com/imageserve/660073ea52b73d1c1f8f1ebc/Pools-Sunrise/960x0.jpg?fit=scale",
+      "file_path": "/workspace/imgs/luxury_resort_swimming_pool_sunset_palms.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 131619,
+      "width": 959,
+      "height": 719,
+      "total_pixels": 689521,
+      "basic_score": 0.9045897192138798
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, showcasing a beautiful, luxurious swimming pool at a resort. It features excellent clarity, vibrant colors, and a professional, inviting composition, with no watermarks visible.",
+      "file_name": "luxury_resort_swimming_pool_sunset_palms.jpg",
+      "caption": "A breathtaking, symmetrical view of a luxurious resort swimming pool at sunset, flanked by majestic palm trees and comfortable lounge chairs, evoking a serene and upscale vacation experience.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful swimming pool for amenities section",
+    "image_info": {
+      "url": "https://media.cntraveler.com/photos/5f89a04c832eef138f7b94e9/16:9/w_1280,c_limit/Dorado%20Beach,%20a%20Ritz-Carlton%20Reserve.jpg",
+      "file_path": "/workspace/imgs/luxury_resort_infinity_pool_ocean_view_tropical.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 165768,
+      "width": 1200,
+      "height": 675,
+      "total_pixels": 810000,
+      "basic_score": 0.9258295674783176
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a beautiful, luxurious swimming pool with an ocean view in a resort setting. The clarity, composition, and lighting are excellent, making it ideal for an amenities section. There are no watermarks.",
+      "file_name": "luxury_resort_infinity_pool_ocean_view_tropical.jpg",
+      "caption": "A stunning, sunlit infinity swimming pool at a luxury resort, flanked by tropical palm trees and lush greenery, overlooking a pristine ocean. Modern lounge chairs invite relaxation by the water, while architectural details of the resort's stone patio with dappled sunlight create an elegant ambiance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury bathroom",
+    "image_info": {
+      "url": "https://easyrenovation.ca/wp-content/uploads/2023/10/hotel7.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_guest_house_bathroom_wood_marble_design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 82283,
+      "width": 1275,
+      "height": 900,
+      "total_pixels": 1147500,
+      "basic_score": 0.9270479433975608
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern luxury bathroom with a sophisticated design. The use of natural wood, marble, and sleek black fixtures contributes to a high-end feel. The image is exceptionally clear, well-lit, and professionally composed, with no visible watermarks.",
+      "file_name": "modern_luxury_guest_house_bathroom_wood_marble_design.jpg",
+      "caption": "A stunning modern luxury bathroom featuring a dual vanity with marble countertops, sleek black faucets, and integrated shelving with neatly stacked white towels. The bathroom boasts natural wood paneling, a contemporary bathtub with a black showerhead, and a stylish wooden tree stump stool with a succulent plant. The open design connects to a bright bedroom, suggesting a high-end guest suite or hotel accommodation, all set on a beautiful white marble tiled floor.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury bathroom",
+    "image_info": {
+      "url": "https://images.squarespace-cdn.com/content/v1/5e30b4c769dcbf426b421101/dc68057d-6144-4670-8764-6a203ef60169/guestbathrooms-Summitridge-Drive-beverly-hills-modern-guest-house-bathroom.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_marble_bathroom_glass_shower_vanity.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 224168,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.8981691794424863
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a highly modern and luxurious bathroom with marble finishes, sleek fixtures, and excellent composition. The clarity is exceptional, and there are no watermarks. It represents professional quality photography.",
+      "file_name": "modern_luxury_marble_bathroom_glass_shower_vanity.jpg",
+      "caption": "A stunning modern luxury bathroom featuring white marble walls and countertops, a floating dark wood double vanity, a spacious glass-enclosed shower, and a large mirror with contemporary pendant lights. A lush green plant adds a touch of nature, while a tall window offers a view of outdoor greenery, enhancing the bright and airy feel of the space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury bathroom",
+    "image_info": {
+      "url": "https://www.decorilla.com/online-decorating/wp-content/uploads/2024/06/Luxurious-guest-bathroom-ideas-with-tub-by-DECORILLA-1024x1021.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_guest_house_bathroom_interior_design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 107495,
+      "width": 1024,
+      "height": 1021,
+      "total_pixels": 1045504,
+      "basic_score": 0.9275119636663769
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a highly modern and luxurious bathroom with premium finishes and a sleek design. The clarity is excellent, and there are no visible watermarks. The composition and lighting are professional, creating a very appealing visual.",
+      "file_name": "modern_luxury_guest_house_bathroom_interior_design.jpg",
+      "caption": "A stunning modern luxury bathroom featuring a white marble vanity with a gold-trimmed vessel sink and fluted wooden cabinetry. The large, illuminated mirror reflects the elegant space, which also includes a sleek freestanding white bathtub with gold fixtures, a glass-enclosed shower, and a window providing natural light. The room is adorned with a sophisticated white and gold color palette, high-end decor, and a stylish geometric-patterned bath mat.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury bathroom",
+    "image_info": {
+      "url": "https://easyrenovation.ca/wp-content/uploads/2023/10/hotel11.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_hotel_bathroom_suite_marble_vanity_bathtub.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 66521,
+      "width": 1280,
+      "height": 854,
+      "total_pixels": 1093120,
+      "basic_score": 0.9303071607048409
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a highly modern and luxurious bathroom design suitable for a guest house or hotel suite. The composition is professional, lighting is excellent, and the image is very clear with no watermarks.",
+      "file_name": "modern_luxury_hotel_bathroom_suite_marble_vanity_bathtub.jpg",
+      "caption": "A stunning modern luxury hotel or guest house bathroom, featuring a sophisticated dual-sink dark marble vanity with elegant brass fixtures and integrated illuminated mirrors. A sleek, freestanding white bathtub is positioned on white marble flooring, separated from the adjacent bedroom by a stylish gold-slatted partition, hinting at an open-plan suite. The design showcases high-end materials and contemporary aesthetics.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern luxury bathroom",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/28/72/ee/2872eefc20dd9ba199f7a947de19c833.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_bathroom_marble_gold_fixtures.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 86781,
+      "width": 736,
+      "height": 1051,
+      "total_pixels": 773536,
+      "basic_score": 0.8968631067065908
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is an excellent match for both the search query and prompt, showcasing a highly modern and luxurious bathroom design. It features high-quality materials and professional composition. The clarity is superb, and there are no watermarks.",
+      "file_name": "modern_luxury_bathroom_marble_gold_fixtures.jpg",
+      "caption": "A sleek and opulent modern luxury bathroom featuring white marble walls and flooring with elegant gold veining. The space includes a contemporary gold-finished vessel sink and faucet set on a white floating vanity shelf, complemented by a dark vanity cabinet with ribbed detailing. A large, frameless mirror is illuminated by hidden LED strips, reflecting the stylish ribbed wall paneling and two hanging gold pendant lights. A vase of white roses adds a touch of elegance next to the sink, and a modern white toilet is visible in the foreground.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern outdoor braai/BBQ area",
+    "image_info": {
+      "url": "https://royalcitynursery.com/wp-content/uploads/2021/02/royal-city-nursery-guelph-backyard-bbq-area-design-deas.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_outdoor_bbq_braai_fireplace_patio.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 164237,
+      "width": 1000,
+      "height": 492,
+      "total_pixels": 492000,
+      "basic_score": 0.8452207068975028
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a luxurious and modern outdoor living space with a built-in stone fireplace, a high-end BBQ grill, and comfortable wicker patio furniture, perfectly matching the search query and prompt. The image quality is excellent, with sharp focus, vibrant colors, and no visible watermarks. The composition effectively showcases all key elements of a premium outdoor entertainment area.",
+      "file_name": "modern_luxury_outdoor_bbq_braai_fireplace_patio.jpg",
+      "caption": "A stunning and luxurious modern outdoor patio area featuring a grand built-in stone fireplace, a sleek stainless steel barbecue grill with an integrated counter, and comfortable brown wicker patio furniture with plush cushions. The paved patio is surrounded by lush green plants and trees from a garden nursery, under a beautiful blue sky with fluffy white clouds, creating an inviting space for entertaining and relaxation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern outdoor braai/BBQ area",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/35/41/55/35415500e5e7b6661163b31497fa84d9.jpg",
+      "file_path": "/workspace/imgs/luxury_modern_outdoor_braai_bbq_fireplace_patio.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 206615,
+      "width": 722,
+      "height": 876,
+      "total_pixels": 632472,
+      "basic_score": 0.888267268254736
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant to the search query and prompt, showcasing a luxurious and modern outdoor braai/BBQ area with a fireplace, bar seating, and a covered patio. The clarity is excellent with sharp details, no watermarks are present, and the overall composition and lighting are professional.",
+      "file_name": "luxury_modern_outdoor_braai_bbq_fireplace_patio.jpg",
+      "caption": "A luxurious and modern outdoor braai/BBQ area featuring a grand stone-clad fireplace with a mounted television, a built-in grill, and a bar counter with several high-back stools. The covered patio is supported by sturdy dark wooden beams and posts, set on a light-colored paved surface, surrounded by lush green lawn and mature trees, creating an inviting and well-equipped entertainment space.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern outdoor braai/BBQ area",
+    "image_info": {
+      "url": "https://mjklosscarpentry.co.uk/wp-content/uploads/2025/04/bbq-area-ideas.jpg",
+      "file_path": "/workspace/imgs/modern-luxury-outdoor-wood-deck-bbq-braai-area.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 156169,
+      "width": 800,
+      "height": 603,
+      "total_pixels": 482400,
+      "basic_score": 0.8588158231494615
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 100.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern, luxurious outdoor braai/BBQ area. It features excellent clarity, professional composition, and is free of any watermarks.",
+      "file_name": "modern-luxury-outdoor-wood-deck-bbq-braai-area.jpg",
+      "caption": "A beautifully designed modern and luxurious outdoor wooden deck featuring an integrated BBQ/braai area with a built-in grill and sleek black countertop. The space includes a large wooden dining table with chairs, integrated bench seating with patterned cushions, and stylish planters with lush greenery. The slatted wooden fencing and surrounding garden create a private, sophisticated ambiance, with traditional residential buildings visible in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern outdoor braai/BBQ area",
+    "image_info": {
+      "url": "https://safirecollection.com/wp-content/uploads/2024/04/1500-Affordable-Luxury-590-Combo-Wood-Insert.jpg",
+      "file_path": "/workspace/imgs/modern_luxury_outdoor_braai_bbq_area_concrete_wood.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 446025,
+      "width": 1200,
+      "height": 900,
+      "total_pixels": 1080000,
+      "basic_score": 0.9601101234102362
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 90.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a modern and luxurious outdoor braai/BBQ area with excellent clarity and composition. A small product brand logo is visible on the BBQ unit, which slightly reduces the watermark score, but does not detract significantly from the overall quality or utility.",
+      "file_name": "modern_luxury_outdoor_braai_bbq_area_concrete_wood.jpg",
+      "caption": "A stylish and modern outdoor built-in braai (BBQ) area featuring a sleek stainless steel grill unit with an integrated firebox, set within a contemporary grey concrete wall. Neatly stacked firewood is arranged in a compartment below the grill. The area is flanked by decorative potted green shrubs, with lush green foliage and white flowers visible in the background, creating a luxurious and inviting outdoor living space with dark patio tiles in the foreground.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern outdoor braai/BBQ area",
+    "image_info": {
+      "url": "https://i.pinimg.com/736x/79/0d/b0/790db00336b6f74eaafe974c2d637a05.jpg",
+      "file_path": "/workspace/imgs/luxury-modern-outdoor-kitchen-bbq-pizza-oven-pergola.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 135580,
+      "width": 645,
+      "height": 858,
+      "total_pixels": 553410,
+      "basic_score": 0.8675216732517526
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a luxurious and modern outdoor BBQ/braai area. It features high-end stainless steel appliances, a prominent stone pizza oven, and a beautiful wooden pergola, all contributing to a premium feel. Clarity is excellent, and there are no watermarks, making it a high-quality professional photograph.",
+      "file_name": "luxury-modern-outdoor-kitchen-bbq-pizza-oven-pergola.jpg",
+      "caption": "A picturesque view of a luxurious and modern outdoor kitchen, featuring sleek stainless steel built-in grills, a traditional stone pizza oven with a glowing fire, and elegant dark stone countertops. The area is covered by a rustic wooden pergola adorned with hanging lanterns, while a herringbone brick pathway leads through the verdant backyard foliage. This inviting space is ideal for outdoor entertaining and cooking.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
